@@ -1,8 +1,6 @@
 
 # print("Hello World!")
 
----
-
 ## Contact with me in:
 
 - [Linkedin](https://www.linkedin.com/in/esteban-rinaldi-campos-58238425b/)
