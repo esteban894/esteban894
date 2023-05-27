@@ -6,7 +6,7 @@
 ## Contact with me in:
 
 - [Linkedin](https://www.linkedin.com/in/esteban-rinaldi-campos-58238425b/)
-- [Instagram](instagram.com/estebanri_8904)
+- [Instagram](https://instagram.com/estebanri_8904)
 - [Twitter](https://twitter.com/rinaldi_esteban)
 
 ## ToolBox
