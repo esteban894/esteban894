@@ -5,11 +5,9 @@
 
 ## Contact with me in:
 
----
-
-[LinkedIn](https://www.linkedin.com/in/esteban-rinaldi-campos-58238425b/)
-[Instagram](instagram.com/estebanri_8904)
-[Twitter](https://twitter.com/rinaldi_esteban)
+- [Linkedin](https://www.linkedin.com/in/esteban-rinaldi-campos-58238425b/)
+- [Instagram](instagram.com/estebanri_8904)
+- [Twitter](https://twitter.com/rinaldi_esteban)
 
 ## ToolBox
 
