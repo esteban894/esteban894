@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">print("Hello There!")</h3>
 
-- 🌱 I’m currently learning **React** and **React-Native**
+- 🌱 I’m currently learning **Nodejs** and **Expressjs**
 
 - 📫 How to reach me **estebanrinaldicampos@gmail.com**
 
