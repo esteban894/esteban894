@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">print("Hello There!")</h3>
 
-- 🌱 I’m currently learning **Nodejs** and **Expressjs**
+- 🌱 I’m currently learning **React-Native** with **Expo**
 
 - 📫 How to reach me **estebanrinaldicampos@gmail.com**
 
@@ -110,11 +110,14 @@
     </a>
 </p> -->
 
-<!-- <p>
+<p>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <a href="https://developer.apple.com/" target"_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>
+    </a>
+ <!--   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
     </a>
  </p> -->
