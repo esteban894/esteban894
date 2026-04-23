@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">print("Hello There!")</h3>
 
-- 🌱 I’m currently learning **React-Native** with **Expo**
+- 🌱 I’m currently learning **GraphQL**
+
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="30" width="30" alt="GraphQL" />
 
 <h3 align="left">Connect with me:</h3>
 
@@ -22,6 +24,7 @@
 ![VUEJS](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)
 ![ANGULAR](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)
 ![REACTJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![NEXTJS](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
 
 ![PYTHON](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![DJANGO](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
