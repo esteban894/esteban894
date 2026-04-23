@@ -4,124 +4,50 @@
 - 🌱 I’m currently learning **React-Native** with **Expo**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/esteban-rinaldi-campos-58238425b/" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/esteban-rinaldi-campos-58238425b/" height="30" width="40" />
-    </a>
-</p>
+
+[![linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/esteban-rinaldi-campos-58238425b/)
 
 <h3 align="left">Languages and Tools: 🧰🛠</h3>
 
-<p>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
-    </a>
-</p>
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+![JS](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![TS](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 
-<p>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.angular.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/>
-    </a>
-    <!--<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
-    </a>-->
-</p>
+![BOOTSTRAP](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
+![TAILWINDCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![NODEJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+![EXPRESSJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![NESTJS](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)
+![VUEJS](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)
+![ANGULAR](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)
+![REACTJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 
-<p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
-    </a>
-</p>
+![PYTHON](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![DJANGO](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
 
-<p>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-</p>
+![FIREBASE](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
 
-<p>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    </a>
-</p>
+![MYSQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![POSTGRESQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
 
-<p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-    </a>
-</p>
+![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![POSTMAN](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![DOCKER](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
-<p align="left">
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/>
-    </a>
-</p>
+![UNITY](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+![BLENDER](https://www.vectorlogo.zone/logos/blender/blender-icon.svg)
 
-<!-- <p>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-</p> -->
+![ANDROID](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 
-<p>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://developer.apple.com/" target"_blank" rel="noreferrer">
+<!--    <a href="https://developer.apple.com/" target"_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>
-    </a>
+    </a> -->
  <!--   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
- </p> -->
-
-<p>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a> -->
-</p>
+
+![LINUX](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban894&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="esteban894" />
