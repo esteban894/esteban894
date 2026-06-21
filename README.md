@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">print("Hello There!")</h3>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **.NET**
 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="30" width="30" alt="GraphQL" />
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="30" width="30" alt=".NET" />
 
 <h3 align="left">Connect with me:</h3>
 
