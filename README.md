@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="30" width="30" alt=".NET" />
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" height="30" width="30" alt=".NET" />
 
 <h3 align="left">Connect with me:</h3>
 
