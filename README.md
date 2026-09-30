@@ -53,11 +53,6 @@
 
 ![LINUX](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban894&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="esteban894" />
+<p align="center">
+    <img src="./metrics.svg" alt="esteban894 GitHub metrics" />
 </p>
-
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esteban894&show_icons=true&theme=tokyonight&bg_color=ffffff&locale=es" alt="esteban894" />
-</p>
-
