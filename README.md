@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">print("Hello There!")</h3>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **RabbitMQ + Kafka**
 
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" height="30" width="30" alt=".NET" />
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="30" width="30" alt="RabbitMQ" />
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="30" width="30" alt="Kafka" />
 
 <h3 align="left">Connect with me:</h3>
 
