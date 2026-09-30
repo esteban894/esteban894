@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **RabbitMQ + Kafka**
 
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="30" width="30" alt="RabbitMQ" />
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="30" width="30" alt="Kafka" />
+![RabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg)
+![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)
 
 <h3 align="left">Connect with me:</h3>
 
